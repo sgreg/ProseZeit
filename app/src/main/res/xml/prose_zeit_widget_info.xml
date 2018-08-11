@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/prose_zeit_widget"
+    android:initialLayout="@layout/prose_zeit_widget"
+    android:minHeight="40dp"
+    android:minWidth="110dp"
+    android:previewImage="@drawable/prosezeit_preview"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="0"
+    android:widgetCategory="home_screen"/>

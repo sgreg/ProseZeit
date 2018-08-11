@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProseZeit</string>
+    <string name="quote_origin">&lt;i>%1$s&lt;/i>, %2$s</string>
+</resources>
